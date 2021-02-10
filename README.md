@@ -1,2 +1,2 @@
 # DiceeSwiftUI
-Second project for SwiftUI
+Second project for SwiftUI, Dicee
